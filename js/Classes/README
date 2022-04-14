@@ -1,0 +1,9 @@
+## This is a JavaScript Blackjack Game
+### It is fully functional adn fun to play 
+
+Most of the **HTML** is acutally made by the JS code. which is why the **HTML** page itself is practically empty.  
+
+How to PLAY BLACKJACK 
+- Click DEAL button to get cards 
+- Click HIT button to get another card
+- Click STAND when you're done
